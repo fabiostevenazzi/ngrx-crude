@@ -1,3 +1,8 @@
 {
-
-}
+    "coin": [
+      { "id": 1, "value": "10", "name": "fab1", "description": "stev1" },
+      { "id": 2, "value": "20", "name": "fab2", "description": "stev2" },
+      { "id": 3, "value": "30", "name": "fab3", "description": "stev3" },
+      { "id": 4, "value": "40", "name": "fab4", "description": "stev4" }
+    ]
+  }
